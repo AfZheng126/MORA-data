@@ -12,4 +12,4 @@ cd MORA-data/ecoli_data
 gunzip ecoli.fna.gz
 ```
 
-Go to the configuration file for Mora make sure the directories are correct. If MORA-data was downloaded in the same directory where MORA was downlaoded, the config file shouldn't need to be changed. 
+Go to the configuration file for Mora make sure the directories are correct. If MORA-data was downloaded in the same directory where MORA was downlaoded, the config file shouldn't need to be changed. Then simply run Mora using the snakemake command. 
