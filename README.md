@@ -26,4 +26,4 @@ The Appendix Tables XLSX file contains the tables containing the data of experim
 | A.3 Sevim Real Data | Contains the data used to generate Figure 2b. |
 | A.4 Time and Memory | Contains the wall clock time and different types of memeory usage by each algorithm. Maximum RAM usage is represetned by MAX_USS and is in units of Mb. |
 | A.5 Abundance Comparisons | Lists the RMSE and RMLSE values between real abundances, estimated abundances, and assigned abundancies for Mora, Pathoscope2, and Agamemnon. |
-| A.6 Simulated Data | Contains the true positives and false positive values. True negatives and false negatives are also shown for species/genus rank due to some of the REF-1 data not being in the NCBI taxonomy database. The F1, sensitivity, and precision scores are also listed here. |
+| A.6 Simulated Data | Contains the true positives and false positive values. True negatives and false negatives are only shown for species/genus rank due to some of the REF-1 data not being in the NCBI taxonomy database. The F1, sensitivity, and precision scores are also listed here. |
