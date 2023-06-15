@@ -29,3 +29,7 @@ The Appendix Tables XLSX file contains the tables containing the data of experim
 | A.6 Simulated Data | Contains the true positives and false positive values. True negatives and false negatives are only shown for species/genus rank due to some of the REF-1 data not being in the NCBI taxonomy database. The F1, sensitivity, and precision scores are also listed here. |
 | A.7 Real Short E.coli | Contains the number of reads assigned to each E.coli strain by the different algorithms and the resulting scores. |
 | A.8 Real Covid-19 | Contains the number of reads assigned to each Covid-19 strain by the different algorihtms. |
+
+# Code for AugPatho2
+
+The AugPatho2 folder has the code that has been augmented from the original Pathoscope2 code. It is the changed files from the pathoscope folder from when you install pathoscope2. 
