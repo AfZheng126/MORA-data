@@ -31,7 +31,7 @@ The Appendix Tables XLSX file contains the tables containing the data of experim
 | A.8 Mock Community Genus | Contains the number of reads assigned to each species in the ATCC MSA-1003 mock community experiment. |
 | A.9 Bracken Abundance | Contains the number of reads assigned to each species and genus in the ATCC MSA-1003 mock community experiment by Bracken.|
 | A.10 Mock Community Analysis | Contains the F1 and l1 scores for the ATCC MSA-1003 mock community experiment. |
-| A.3 Sevim Real Data | Contains an extra experiment that was not written into the paper. |
+| A.11 Sevim Real Data | Contains an extra experiment that was not written into the paper. |
 
 # Code for AugPatho2
 
